@@ -1,6 +1,7 @@
 import './App.css';
+import './axios/global'
 import Title from './components/Title';
-import Example from './examples/post-request'
+import Example from './examples/interceptors'
 
 
 function App() {
