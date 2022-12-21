@@ -1,6 +1,6 @@
 import './App.css';
 import Title from './components/Title';
-import Example from './examples/header'
+import Example from './examples/post-request'
 
 
 function App() {
